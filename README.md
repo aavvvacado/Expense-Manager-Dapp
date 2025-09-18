@@ -2,7 +2,10 @@
 
 <div align="center">
 
-![App Screenshots]
+
+<img width="416" height="868" alt="Screenshot 2025-09-19 031456" src="https://github.com/user-attachments/assets/c2ca18d1-a7f9-4132-859e-0d9d89c15643" />
+
+
 *Modern Web3 Expense Tracker with Beautiful UI*
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
@@ -12,9 +15,18 @@
 
 </div>
 
+
 ## 📱 Overview
 
 A decentralized expense tracking application built with Flutter and Ethereum smart contracts. This DApp allows users to manage their expenses on the blockchain, providing transparency, security, and immutability to financial tracking.
+
+### 📱 Video
+
+
+
+
+https://github.com/user-attachments/assets/407b2e8f-1ea0-4933-95d9-fca4c6ab3770
+
 
 ## ✨ Features
 
